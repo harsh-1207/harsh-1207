@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Bisht</h1>
 <h3 align="center">Web Developer and Competitive Programmer</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/harsh-1207/harsh-1207/assets/85677676/c44129d1-9ed1-487a-9d99-48a43a8fab23)
-">
+<img align="right" alt="coding" width="400" src="anim.gif">
 
 - 🌱 I’m currently learning **ReactJS**
 
