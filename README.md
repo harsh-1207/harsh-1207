@@ -51,8 +51,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-
-  <!-- LeetCode -->
+</p>
+<p>
+<h3 align="left">Problem Solving (DSA): </h3>
   <a href="https://leetcode.com/u/harsh_1207/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> 
   </a>
