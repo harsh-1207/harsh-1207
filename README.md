@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bisht</h1>
-<h3 align="center">Web Developer and Competitive Programmer</h3>
+<h3 align="center">Java Developer</h3>
 
 <img align="right" alt="coding" width="400" src="anim.gif">
 
@@ -51,4 +51,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/harsh_1207/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> 
+  </a>
+</p>
+
 </p>
